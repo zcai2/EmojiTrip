@@ -1,2 +1,4 @@
 # Project exclude paths
 /venv/
+/mysite/mysite/__pycache__/
+/mysite/mainapp/__pycache__/
