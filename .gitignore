@@ -2,3 +2,4 @@
 /venv/
 /mysite/mysite/__pycache__/
 /mysite/mainapp/__pycache__/
+.DS_Store
